@@ -3,27 +3,32 @@
     {
       "author": "Pixel Vibe",
       "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%201.png",
-      "name": "Revona 1"
+      "name": "Revona 1",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%201.png"
     },
     {
       "author": "Pixel Vibe",
       "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%202.png",
-      "name": "Revona 2"
+      "name": "Revona 2",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%202.png"
     },
     {
       "author": "Pixel Vibe",
       "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%203.png",
-      "name": "Revona 3"
+      "name": "Revona 3",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%203.png"
     },
     {
       "author": "Pixel Vibe",
       "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%204.png",
-      "name": "Revona 4"
+      "name": "Revona 4",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%204.png"
     },
     {
       "author": "Pixel Vibe",
       "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%205.png",
-      "name": "Revona 5"
+      "name": "Revona 5",
+      "thumbnail": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%205.png"
     },
   ]
 }
