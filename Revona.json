@@ -1,1 +1,29 @@
-Hello
+{
+  "wallpapers": [
+    {
+      "author": "Pixel Vibe",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%201.png",
+      "name": "Revona 1"
+    },
+    {
+      "author": "Pixel Vibe",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%202.png",
+      "name": "Revona 2"
+    },
+    {
+      "author": "Pixel Vibe",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%203.png",
+      "name": "Revona 3"
+    },
+    {
+      "author": "Pixel Vibe",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%204.png",
+      "name": "Revona 4"
+    },
+    {
+      "author": "Pixel Vibe",
+      "url": "https://raw.githubusercontent.com/PixelVibe/Revona/main/Rev%205.png",
+      "name": "Revona 5"
+    },
+  ]
+}
